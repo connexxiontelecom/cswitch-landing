@@ -46,11 +46,13 @@
           <div class="section-title title-01 mb-70">
 
             <!-- Title -->
-            <h2 class="h2-md">Security, Simplicity, Easiness</h2>
+            <h2 class="h2-md">Security, Simplicity, Interoperability</h2>
 
             <!-- Text -->
-            <p class="p-xl">Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis a libero
-              tempus, blandit and cursus varius and magnis sapien
+            <p class="p-xl">
+              Hassle free collections and disbursement through mutiple channels.
+              Secure checkouts, payment data encryption, and PCI-compliant servers enable customers to make transactions
+              confidently with zero fear.
             </p>
 
           </div>
